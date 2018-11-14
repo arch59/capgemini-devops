@@ -11,4 +11,5 @@ int b=20;
 void sub(){
 
 }
+int c=40;
 }
