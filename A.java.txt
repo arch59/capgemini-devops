@@ -6,7 +6,7 @@ int r=x+y;
 }
 
 void mul(){
-
+int b=20;
 
 void sub(){
 
